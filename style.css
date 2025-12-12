@@ -6,3 +6,11 @@ html {
 img {
   width: 100px;
 }
+
+.filtered-icon {
+  filter: url(#myFilter);
+}
+
+.filtered-icon-2{
+  filter: url(#myFilter2);
+}
